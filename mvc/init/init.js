@@ -130,7 +130,6 @@ exports.createStudent = function(){
 // }
 
 // exports.createInventory = function () {
-
 //    let newInventory = new inventory({
 //       category: {
 //          mainCategory: 'ferreteria',
